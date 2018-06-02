@@ -1,5 +1,5 @@
 import time
 
-while true:
+while True:
     print 'hola'
     time.sleep(1)
